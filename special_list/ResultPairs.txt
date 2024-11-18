@@ -1,0 +1,8 @@
+y 5
+b 4
+z 4
+a 1
+aa 1
+aaa 1
+asfd 1
+eafd 1
